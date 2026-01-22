@@ -40,7 +40,7 @@ const Vision: React.FC = () => {
               আমরা কোনো নির্দিষ্ট গোষ্ঠীর জন্য নয়, বরং বাংলার প্রতিটি নাগরিকের অধিকার ও মর্যাদার জন্য লড়ছি। হাতপাখা শান্তি ও ন্যায়ের প্রতীক।
             </p>
             <div className="flex flex-wrap gap-2 sm:gap-4">
-              <button className="bg-white text-bd-green px-5 md:px-8 lg:px-10 py-3 md:py-4 lg:py-5 rounded-xl md:rounded-2xl font-black text-base md:text-lg hover:bg-islamic-gold hover:text-white transition-all flex items-center gap-3 shadow-2xl shadow-black/20">
+              <button className="bg-white text-bd-green px-5 md:px-8 lg:px-10 py-3 md:py-4 lg:py-5 rounded-xl md:rounded-2xl font-black text-base md:text-lg transition-all flex items-center gap-3 shadow-2xl shadow-black/20">
                 ইশতেহার ডাউনলোড করুন <i className="fa-solid fa-file-pdf"></i>
               </button>
             </div>

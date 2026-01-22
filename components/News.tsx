@@ -29,7 +29,7 @@ const News: React.FC = () => {
             IMAGES.MOVEMENT_4,
           ].map((url, i) => (
             <div key={i} className="relative overflow-hidden rounded-3xl h-64 group">
-              <img src={url} className="w-full grayscale hover:grayscale-0 h-full object-cover group-hover:scale-110 transition-all duration-700" alt="জুলাই বিপ্লব" />
+              <img src={url} className="w-full md:grayscale hover:grayscale-0 h-full object-cover group-hover:scale-110 transition-all duration-700" alt="জুলাই বিপ্লব" />
             </div>
           ))}
         </div>
