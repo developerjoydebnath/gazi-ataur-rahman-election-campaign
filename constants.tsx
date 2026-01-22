@@ -17,7 +17,7 @@ export const IMAGES = {
 
 export const SOCIAL_LINKS = [
   { icon: 'facebook-f', link: 'https://www.facebook.com/share/1H2fzCbW1K/' },
-  { icon: 'envelope', link: 'mailto:gaziataur1973@gmail.com' },
+  { icon: 'google', link: 'mailto:gaziataur1973@gmail.com' },
   { icon: 'youtube', link: 'https://share.google/2Q9st5qOnjFNuqOOZ' },
   { icon: 'whatsapp', link: 'tel:+8801711958389' }
 ]
